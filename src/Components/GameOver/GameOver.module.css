@@ -1,0 +1,27 @@
+
+.container{
+    display:block;
+}
+.containerImg{
+    display:flex;
+    justify-content: center;
+}
+
+.titulo{
+    text-align: center;
+}
+.buttonContainer{
+    display:flex;
+    justify-content: center;
+}
+
+.img{
+    
+   
+    background-image: url('../Assets/calavera.png');
+    background-size: cover;
+    width:300px;
+    height: 280px;
+
+}
+
