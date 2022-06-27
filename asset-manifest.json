@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/appCultureGame/static/css/main.ca0e4cbc.chunk.css",
+    "main.js": "/appCultureGame/static/js/main.db4b913c.chunk.js",
+    "main.js.map": "/appCultureGame/static/js/main.db4b913c.chunk.js.map",
+    "runtime-main.js": "/appCultureGame/static/js/runtime-main.d4983e4f.js",
+    "runtime-main.js.map": "/appCultureGame/static/js/runtime-main.d4983e4f.js.map",
+    "static/js/2.b2f53567.chunk.js": "/appCultureGame/static/js/2.b2f53567.chunk.js",
+    "static/js/2.b2f53567.chunk.js.map": "/appCultureGame/static/js/2.b2f53567.chunk.js.map",
+    "static/js/3.a4a19ae1.chunk.js": "/appCultureGame/static/js/3.a4a19ae1.chunk.js",
+    "static/js/3.a4a19ae1.chunk.js.map": "/appCultureGame/static/js/3.a4a19ae1.chunk.js.map",
+    "index.html": "/appCultureGame/index.html",
+    "static/css/main.ca0e4cbc.chunk.css.map": "/appCultureGame/static/css/main.ca0e4cbc.chunk.css.map",
+    "static/js/2.b2f53567.chunk.js.LICENSE.txt": "/appCultureGame/static/js/2.b2f53567.chunk.js.LICENSE.txt",
+    "static/media/Playing.module.css": "/appCultureGame/static/media/viajes.d79f6f36.png",
+    "static/media/GameOver.module.css": "/appCultureGame/static/media/calavera.d1c62620.png",
+    "static/media/gameover.3a843b4e.mp3": "/appCultureGame/static/media/gameover.3a843b4e.mp3",
+    "static/media/imagenPortada.04ce49ce.webp": "/appCultureGame/static/media/imagenPortada.04ce49ce.webp",
+    "static/media/logo.6ce24c58.svg": "/appCultureGame/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4983e4f.js",
+    "static/js/2.b2f53567.chunk.js",
+    "static/css/main.ca0e4cbc.chunk.css",
+    "static/js/main.db4b913c.chunk.js"
+  ]
+}
